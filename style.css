@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    width: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+button:hover{
+    text-shadow: 0 0 3px #51ccf1;
+}
+button:active{
+    border: none;
+    outline: none;
+}
+button:focus{
+    border: none;
+    outline: none;
+}
+.row>h1{
+    font-size: 50px;
+}
+ul{
+    font-size: 25px;
+}
